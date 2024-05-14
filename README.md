@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Geovani Silveira Aquino</h1>
 <h3 align="center">Eu sou estudante de Analise e Desenvolvimento de Sistemas, e meu foco é uma carreira de Desenvolvimento Web 😉</h3>
 
-- 🌱 Atualmente estou aprendendo **Next.js e React**
+- 🌱 Atualmente estou aprendendo **JavaScript e CSS**
 
 - 📄 Conheça minhas experiencias [https://www.linkedin.com/in/geovani-silveira-aquino-654292300/](https://www.linkedin.com/in/geovani-silveira-aquino-654292300/)
 
